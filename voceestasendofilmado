@@ -12,9 +12,8 @@
 </head>
   <body>
     <div>	  
-      <center> <h1 style="color : #AA4465">filmes</h1> </center>
-      <h2>SORRIA</h2>
-    </div>
+      <center> <h1 style="color : #AA4465">SORRIA</h1> </center>
+      </div>
 	  
    <script src="javabutton.js"></script>
   </body>
